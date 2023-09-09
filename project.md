@@ -1,1 +1,2 @@
-# The project will be carried out using the javascript programming language 
+# Programming language: JavaScript
+# Project theme: website of a restaurant that offers catering services and food delivery + desktop application to monitor orders and add new ones
